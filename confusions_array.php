@@ -1,0 +1,67 @@
+<?php
+$confusions = [
+    "Assistant Head & Maths"                                 => "Assistant Head & Maths",                                   //Confusion
+    "Assistant Head & MFL"                                   => "Assistant Head & MFL",                                     //Confusion
+    "Assistant Head & Music"                                 => "Assistant Head & Music",                                   //Confusion
+    "Assistant Head & Science"                               => "Assistant Head & Science",                                 //Confusion
+    "Assistant Head &Maths"                                  => "Assistant Head & Maths",                                   //Confusion
+    "Assistant Head / English"                               => "Assistant Head & English",                                 //Confusion
+    "Assistant Head / Science"                               => "Assistant Head & Science",                                 //Confusion
+    "Assistant Head / REC"                                   => "Assistant Head & REC",                                     //Confusion
+    "Assistant Head / MFL"                                   => "Assistant Head & MFL",                                     //Confusion
+    "Assistant Head / Rec"                                   => "Assistant Head & Rec",                                     //Confusion
+    "HR Manager - Deals With Recruitment"                    => "HR Manager & Deals With Recruitment",                      //Confusion
+    "Humanities & MFL"                                       => "Humanities & MFL",                                         //Confusion
+    "PA To Alex Lewis & HR Man"                              => "PA To Alex Lewis & HR Man",                                //Confusion
+    "Pa To Anna Richardson & HR Man"                         => "Pa To Anna Richardson & HR Man",                           //Confusion
+    "Prin & CEO PA / Office Man"                             => "Prin & CEO PA & Office Man",                               //Confusion
+    "Deputy Head - English"                                  => "Deputy Head & English",                                    //Confusion
+    "Deputy Head, Teaching And Learning:"                    => "Deputy Head, Teaching And Learning:",                      //Confusion
+    "Director Of Art & Design"                               => "Director Of Art & Design",                                 //Confusion
+    "Director Of Creative & Performing Arts"                 => "Director Of Creative & Performing Arts",                   //Confusion
+    "Director Of Humanities, Languages And English"          => "Director Of Humanities, Languages And English",            //Confusion
+    "Director Of Science, Technology, Engineering And Maths" => "Director Of Science, Technology, Engineering And Maths",   //Confusion
+    "Head Of Visual & Performing Arts"                       => "Head Of Visual & Performing Arts",                         //Confusion
+    "Heads PA - Perm"                                        => "Heads PA & Perm",                                          //Confusion
+    "HOD Creat Arts & Art"                                   => "HOD Creat Arts & HOD Art",                                 //Confusion
+    "HOD H&SC"                                               => "HOD H&SC",                                                 //Confusion
+    "HOD PE & H&SC"                                          => "HOD PE & H&SC",                                            //Confusion
+    "Assoc Asst Head & MFL"                                  => "Assoc Asst Head & MFL",                                    //Confusion
+    "Associate SLT Member / Geography"                       => "Associate SLT Member & Geography",                         //Confusion
+];
+
+
+$confusions = [
+    "Assistant Head & Maths"                                 => "Assistant Head & HOD Maths",                                   //Assistant Head, HOD Maths
+    "Assistant Head & MFL"                                   => "Assistant Head & HOD MFL",                                     //Assistant Head, HOD MFL
+    "Assistant Head & Music"                                 => "Assistant Head & HOD Music",                                   //Assistant Head, HOD Music
+    "Assistant Head & Science"                               => "Assistant Head & HOD Science",                                 //Assistant Head, HOD Science
+    "Assistant Head &Maths"                                  => "Assistant Head & HOD Maths",                                   //Assistant Head, HOD Maths
+    "Assistant Head / English"                               => "Assistant Head & HOD English",                                 //Assistant Head, HOD English
+    "Assistant Head / Science"                               => "Assistant Head & HOD Science",                                 //Assistant Head, HOD Science
+    "Assistant Head / MFL"                                   => "Assistant Head & HOD MFL",                                     //Assistant Head, HOD MFL
+    "Assistant Head / Rec"                                   => "Assistant Head & Recruitment",                                 //Assistant Head, HOD Rec
+    "HR Manager - Deals With Recruitment"                    => "HR Manager",                                                   //HR Manager
+    "Humanities & MFL"                                       => "HOD Humanities & HOD MFL",                                     //HOD Humanities, HOD MFL
+    "PA To Alex Lewis & HR Man"                              => "HR Manager",                                                   //HR Manager
+    "Pa To Anna Richardson & HR Man"                         => "HR Manager",                                                   //HR Manager
+    "Prin & CEO PA / Office Man"                             => "Office Manager",                                               //Office Manager
+    "Deputy Head - English"                                  => "Deputy Head & HOD English",                                    //Deputy Head, HOD English
+    "Deputy Head, Teaching And Learning"                     => "Deputy Head",                                                  //Deputy Head
+    "Director Of Art & Design"                               => "HOD Art & Design",                                             //HOD Art & Design
+    "Director Of Creative & Performing Arts"                 => "HOD Creative Arts & HOD Performing Arts",                      //HOD Creative & Performing Arts
+    "Director Of Humanities, Languages And English"          => "HOD Humanities & HOD Languages & HOD English",                 //HOD Humanities, HOD Languages, HOD English
+    "Director Of Science, Technology, Engineering And Maths" => "HOD Science & HOD Technology & HOD Engineering & HOD Maths",   //HOD Science, HOD Technology, HOD Engineering, HOD Maths
+    "Head Of Visual & Performing Arts"                       => "HOD Visual Arts & HOD Performing Arts",                        //HOD Visual & Performing Arts
+    "Heads PA - Perm"                                        => "PA",                                                           //PA
+    "HOD Creat Arts & Art"                                   => "HOD Creat Arts & HOD Art",                                     //HOD Creative Arts, HOD Art
+    "HOD H&SC"                                               => "HOD Health And Social Care",                                   //HOD Health & Social Care
+    "HOD PE & H&SC"                                          => "HOD Health And Social Care",                                   //HOD PE, HOD Health & Social Care
+    "Assoc Asst Head & MFL"                                  => "Associate Assistant Head & HOD MFL",                           //Assistant Head, HOD MFL
+    "Associate SLT Member / Geography"                       => "Associate SLT Member & HOD Geography",                         //HOD Geography
+    "Heads P/A"                                              => "PA",                                                           //PA
+    "Recruitment"                                            => "Recruitment",                                                  //HR Manager
+    "Head Pa"                                                => "PA",                                                           //PA
+    "Principal"                                              => "Principal",                                                    //Head Teacher
+    "Heads P/A"                                              => "PA",                                                           //PA
+];
